@@ -1,11 +1,10 @@
 # Matplotlib and pyplot
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+This repository is an assignment in Module 3 as a part of Web mining and NLP class. Specifically focused on visualizations in matplotlib and how we can manipulate and show data using this library.
 
-## Rubric
-
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
+## Items contained in assignment
+    * Bar plot
+    * Scatter plot
+    * Line plot
+    * Sorting algorithm
+    * Styling of all these elements
