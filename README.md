@@ -6,5 +6,4 @@ This repository is an assignment in Module 3 as a part of Web mining and NLP cla
     * Bar plot
     * Scatter plot
     * Line plot
-    * Sorting algorithm
     * Styling of all these elements
